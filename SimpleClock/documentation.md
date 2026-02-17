@@ -24,4 +24,6 @@ This is a very simple web page that displays the current system time and updates
 
 ## Output
 
-You will see the current time displayed on the screen, updating every second.
+You will see the current time displayed on the screen, updating every second. 
+<img width="1911" height="1069" alt="image" src="https://github.com/user-attachments/assets/33852f1c-3482-49ba-a390-ad0295070d73" />
+
