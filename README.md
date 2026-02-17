@@ -20,4 +20,4 @@ v1.0.1
 * Commit the change and push it to GitHub.
 
 Deliverables:
-* GitHub repository link (e.g., https://github.com/your-username/devops-git-basics)
+* GitHub repository link
