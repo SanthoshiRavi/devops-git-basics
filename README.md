@@ -19,8 +19,6 @@ v1.0.1
 
 * Commit the change and push it to GitHub.
 
-Deliverables:
-* GitHub repository link
 ### screenshots of the git commands
 <img width="1915" height="953" alt="Screenshot 2026-02-17 215551" src="https://github.com/user-attachments/assets/ba318fc0-d2f9-4589-a9c4-401ac3b86f0f" />
 <img width="1009" height="162" alt="Screenshot 2026-02-17 215609" src="https://github.com/user-attachments/assets/322fe85f-958f-481b-9a93-7105fe67d8b7" />
